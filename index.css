@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(0, 0, 0);
+  }
+
+h1 {
+  color:rgb(255, 255, 255);
+  text-align:center;
+  font-family:georgia;
+  }
+
+h4 {
+  color:rgb(255, 255, 255);
+  text-align:center;
+  font-family:"times new roman";
+  }
+
+p {
+  color:rgb(255, 255, 255);
+  font-family:verdana;
+  font-size:105%;
+  }
+
+a {
+  text-align:center;
+  }
+
+table, th, td {
+  border: 1px solid rgb(0, 0, 255);
+  border-collapse: collapse;
+  color:rgb(255, 255, 255);
+  }
+
+tr:hover {background-color: rgb(0, 0, 255);}
+
+.floatright {
+  float:right;
+}
+
+.goober {
+  width: 200px;
+  height: 200px;
+  margin-left: 15px;
+}
